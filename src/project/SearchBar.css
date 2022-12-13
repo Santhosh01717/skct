@@ -1,0 +1,64 @@
+.tot0{
+    background-image: url("C:\Users\suriya\Downloads\image 2.png");
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
+.searchbar{
+     width: 450px;
+     padding: 19px;
+     border-radius: 10px;
+     border: none;
+}
+.searchbuton{
+    padding: 19px;
+    border: none;
+    border-radius: 10px;
+    margin-left: 9px;
+    width: 100px;
+
+}
+.searchbuton:hover{
+    background-color: black;
+    color: white;
+    border: 2px solid rgb(168, 37, 37);
+}
+.result-box{
+    border: 1px solid rgb(190, 183, 183);
+    width: 200px;
+    height: 100px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0px 0px 12px rgb(211, 198, 198);
+}
+.weather-city{
+    padding-top: 4px;
+    margin-bottom: -10px;
+    font-size: 20px;
+}
+.weather-Temp{
+    font-size: 20px;
+}
+.backk{
+    margin-top: 290px;
+    margin-left: 950px;
+    padding: 5px;
+    height: 30px;
+    width: 100px;
+
+}
+.form-control{
+    width: 400px;
+    height: 30px;
+}
+.btn-primary{
+    height: 30px;
+    width: 100px;
+    margin-left: 15px;
+}

@@ -1,0 +1,16 @@
+.ask{
+    display: flex;
+    margin-top: 70px;
+    font-size: 30px;
+    margin-left: 50px;
+    
+}
+.linkclimate{
+    text-decoration: none;
+    padding-left: 100px;
+    font-size: 18px;
+    color: rgb(54, 15, 245);
+}
+.linkclimate:hover{
+    color: green;
+}

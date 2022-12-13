@@ -1,0 +1,10 @@
+.head1{
+    color: white;
+    background: linear-gradient(to right,orange,red);
+    font-size: 30px;
+    margin-left: 0px
+}
+.p1{
+    font-size: 10px;
+    margin: 20px;
+}
